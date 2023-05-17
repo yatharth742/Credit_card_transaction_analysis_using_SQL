@@ -9,7 +9,6 @@ Introduction:
 This report presents a set of SQL queries aimed at analyzing credit card spends and city-wise expenses. 
 The queries provide insights into various aspects of spending patterns, contribution percentages, and growth trends based on the given dataset.
 
-Dataset:
-The dataset used for these queries includes information on credit card spends, transaction details, card types, expense types, and city-wise data. It provides a comprehensive view of spending behavior across different dimensions.
+
 
 

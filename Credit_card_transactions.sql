@@ -1,5 +1,3 @@
-use Projects
-
 
 select * 
 from Credit_card_transac
